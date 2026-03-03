@@ -1,4 +1,4 @@
-package com.example.balatro;
+package balatro;
 
 import javafx.application.Application;
 import javafx.scene.Scene;

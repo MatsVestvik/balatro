@@ -3,7 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.example</groupId>
+    <groupId>balatro</groupId>
     <artifactId>balatro</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>balatro</name>
@@ -49,7 +49,7 @@
                 <artifactId>javafx-maven-plugin</artifactId>
                 <version>0.0.8</version>
                 <configuration>
-                    <mainClass>com.example.balatro.Main</mainClass>
+                    <mainClass>balatro.Main</mainClass>
                 </configuration>
             </plugin>
         </plugins>
